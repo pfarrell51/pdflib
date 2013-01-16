@@ -1,0 +1,30 @@
+<body>
+Wrapper classes for JDBC, provides connection pooling, safe wrapping for fields used
+in insert commands, generic utilities, etc.
+<p>
+Usage: the DBConnectionPool is the key class. It reads the JDBC information
+for Global and creates the connections.
+<p>
+The two key calls are to get a conection using:
+<pre>
+            Connection myCon = DBConnectionPool.getDBConnection();
+</pre>
+and to release the connection with 
+<pre>
+            DBConnectionPool.returnCon();
+</pre>
+<p>
+Other than using the pool for allocating and releasing connecitons,
+all the rest is normal JDBC. 
+
+<p>
+Two Exception classes are defined here:
+<ul>
+    <li>{@link com.pfarrell.utils.database.DuplicateKeyException}
+    <li>{@link com.pfarrell.exceptions.RequiredValueMissingException}
+</ul>
+<hr>
+Copyright &copy; 2006 Pat Farrell. All rights reserved.
+
+</body>
+
