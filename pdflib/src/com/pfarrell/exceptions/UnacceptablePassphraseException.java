@@ -12,6 +12,7 @@ package com.pfarrell.exceptions;
  * Created on Mar 23, 2010, 12:25:40 AM
  */
 public class UnacceptablePassphraseException  extends IllegalStateException {
+	private static final long serialVersionUID = 32L;
 
 public UnacceptablePassphraseException(String m) {
         super(m);
