@@ -1,7 +1,5 @@
 /*
  * Copyright (C) 2011-2012 Patrick Farrell. All Rights reserved.
- * Will be released with a suitable open-source liscence, problably BSD-like.
- * Contact me for a pre-release access.
  */
 package com.pfarrell.utils.io;
 

@@ -2,6 +2,8 @@
  * Constants.java
  *
  * Created on March 3, 2007, 11:40 AM
+ * 
+ * License: public domain
  */
 
 package com.pfarrell.utils.misc;
