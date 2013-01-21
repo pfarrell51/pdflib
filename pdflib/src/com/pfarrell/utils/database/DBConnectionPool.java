@@ -3,7 +3,7 @@ package com.pfarrell.utils.database;
 /*
  * DBConnectionPool.java	0.51 2000/01/15
  *
- * Copyright (c) 2006-2012 Pat Farrell. All rights reserved
+ * Copyright (c) 2006-2013 Pat Farrell. All rights reserved
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at

@@ -2,8 +2,7 @@ package com.pfarrell.utils.io;
 /*
  * @(#)DirWalker.java
  *
- * Copyright (c) 2001, Pat Farrell.  All rights reserved.
- * Copyright (c) 2004-2011, Pat Farrell, All rights reserved.
+ * Copyright (c) 2001-2013, Pat Farrell, All rights reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at

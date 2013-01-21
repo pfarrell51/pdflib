@@ -3,7 +3,7 @@
  *
  * Created on April 24, 2006, 6:37 PM
  *
- * Copyright (c) 2006, Pat Farrell, Inc. All rights reserved.
+ * Copyright (c) 2006-2013, Pat Farrell, Inc. All rights reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
@@ -20,7 +20,7 @@
 package com.pfarrell.exceptions;
 
 /**
- * The  <code>PibException</code> class is a runtime exception
+ * The <code>PibException</code> class is a runtime exception
  * that does not have to be declared, but can be readily trapped.
  *
  * @author pfarrell

@@ -17,6 +17,7 @@ import org.apache.log4j.Logger;
  *
  * @author  Pat Farrell
  * @version 0.51, 2000/03/06
+ * Copyright (C) 2006-2013 Patrick Farrell. All rights reserved
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at

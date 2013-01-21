@@ -2,7 +2,7 @@ package  com.pfarrell.exceptions;
 /*
  * RequiredValueMissingException.java
  *
- * Copyright (c) 2004 Pat Farrell. All rights reserved
+ * Copyright (c) 2004-2013 Pat Farrell. All rights reserved
  * Created on October 4, 2004, 6:17 PM
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
