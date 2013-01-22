@@ -29,8 +29,6 @@
 
 
 package com.pfarrell.utils.misc;
- 
-import java.lang.Math.*;
 
 
 /**
